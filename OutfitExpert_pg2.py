@@ -97,4 +97,4 @@ root.mainloop()
 
 #Here's how were gonna do the color selection:
 #Using the color wheel, make 4 lists; 1 list of all the colors, 1 list for half the wheel and the other for the remaining and last list is white, grey, and black
-#Current Issues: user input not working as intended
+#Current Issues: look to "checkFitAnalogous(user_fits)"
