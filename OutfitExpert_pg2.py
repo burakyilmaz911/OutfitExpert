@@ -1,4 +1,3 @@
-from ftplib import all_errors
 import tkinter as tk
 import tkinter.ttk
 
